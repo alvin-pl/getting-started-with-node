@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "buggy-script": "node intro_to_node/buggy-script.js ./project-outline.txt ./my-project"
+  "buggy-script": "node intro_to_node/buggy-script.js"
   },
   "repository": {
     "type": "git",
