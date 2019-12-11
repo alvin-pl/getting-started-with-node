@@ -1,0 +1,22 @@
+{
+  "name": "getting-started-with-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "buggy-script": "node intro_to_node/buggy-script.js ./project-outline.txt ./my-project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvin-pl/getting-started-with-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvin-pl/getting-started-with-node/issues"
+  },
+  "homepage": "https://github.com/alvin-pl/getting-started-with-node#readme",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
