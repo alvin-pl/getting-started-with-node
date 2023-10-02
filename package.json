@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alvin-pl/getting-started-with-node#readme",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.1"
   }
 }
